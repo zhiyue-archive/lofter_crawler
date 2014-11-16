@@ -213,3 +213,14 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+.idea/.name
+.idea/misc.xml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/scopes/scope_settings.xml
+.idea/modules.xml
+.idea/lofter_crawler.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/encodings.xml
+.idea/dictionaries/zhiyue.xml
